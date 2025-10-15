@@ -1,0 +1,13 @@
+name: encrypted-media
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/f717d293-e3dc-4f4f-841d-6ca4c3b1028b
+description: Encrypted Media Extensions
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
